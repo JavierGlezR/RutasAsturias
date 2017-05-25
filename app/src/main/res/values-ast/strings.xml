@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_map">Ver mapa</string>
+    <string name="action_search">Guetar</string>
+    <string name="action_settings">Opciones</string>
+    <string name="loading_message">Espere mientres carguen los datos...</string>
+    <string name="loading_title">Cargando</string>
+    <string name="position">Posición actual</string>
+    <string name="search_hint">Guetar camín</string>
+    <string name="text_distance">Distancia:</string>
+    <string name="text_place">Llugar:</string>
+    <string name="text_type">Tipu de camín:</string>
+    <string name="info">Información</string>
+    <string name="location">Llocalización</string>
+    <string name="technical_info">Datos téunicos</string>
+    <string name="tab_all">Toes</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="text_altitude">Altitú:</string>
+    <string name="text_contact">Cómo llegar:</string>
+    <string name="text_difficulty">Dificultá:</string>
+    <string name="text_itinerary">Itinerariu:</string>
+    <string name="text_slope">Desnivel:</string>
+    <string name="text_start">Entamu:</string>
+    <string name="text_time">Tiempu:</string>
+    <string name="text_type2">Tipu de percorríu:</string>
+    <string name="toast_settings">Entá nun hai opciones disponibles</string>
+</resources>

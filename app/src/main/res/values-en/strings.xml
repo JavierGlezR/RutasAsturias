@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Routes of Asturias</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Options</string>
+    <string name="loading_message">Wait while retrieving the data...</string>
+    <string name="loading_title">Loading</string>
+    <string name="position">Current location</string>
+    <string name="search_hint">Search route...</string>
+    <string name="text_distance">Distance:</string>
+    <string name="text_place">Location:</string>
+    <string name="text_type">Route type:</string>
+    <string name="action_map">View map</string>
+    <string name="info">Information</string>
+    <string name="location">Location</string>
+    <string name="technical_info">Technical information</string>
+    <string name="tab_all">All</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="text_itinerary">Itinerary:</string>
+    <string name="text_altitude">Altitude:</string>
+    <string name="text_contact">How to arrive:</string>
+    <string name="text_difficulty">Difficulty</string>
+    <string name="text_start">Starting point:</string>
+    <string name="text_time">Time:</string>
+    <string name="text_type2">Path type:</string>
+    <string name="text_slope">Dip:</string>
+    <string name="toast_settings">Settings are not implemented yet</string>
+</resources>

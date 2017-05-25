@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rutas de Asturias</string>
+
+    <string name="loading_title">Cargando</string>
+    <string name="loading_message">Espere mientras se cargan los datos...</string>
+
+    <string name="action_settings">Opciones</string>
+    <string name="toast_settings">Todavía no hay opciones disponibles</string>
+    <string name="action_search">Buscar</string>
+    <string name="search_hint">Buscar ruta...</string>
+    <string name="action_map">Ver mapa</string>
+
+    <string name="tab_all">Todas</string>
+    <string name="tab_favorites">Favoritas</string>
+
+    <string name="text_type">Tipo de ruta:</string>
+    <string name="text_start">Punto de partida:</string>
+    <string name="text_contact">Cómo llegar:</string>
+    <string name="text_itinerary">Itinerario:</string>
+    <string name="text_place">Lugar:</string>
+    <string name="text_distance">Distancia:</string>
+    <string name="text_difficulty">Dificultad:</string>
+    <string name="text_time">Tiempo:</string>
+    <string name="text_type2">Tipo de recorrido:</string>
+    <string name="text_altitude">Altitud:</string>
+    <string name="text_slope">Desnivel:</string>
+
+    <string name="position">Posición actual</string>
+
+    <string name="info">Información</string>
+    <string name="technical_info">Datos técnicos</string>
+    <string name="location">Localización</string>
+
+
+</resources>
